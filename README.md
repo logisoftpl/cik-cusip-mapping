@@ -1,3 +1,6 @@
+# CUSIP-CIK Mapping
+https://directedgar.blog/2022/11/30/cusip-cik-mapping/
+
 # cik-cusip mapping
 
 *** If you just want the mapping, download cik-cusip-maps.csv ***
